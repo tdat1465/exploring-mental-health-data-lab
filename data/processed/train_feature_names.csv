@@ -1,0 +1,77 @@
+feature_name
+num__Age
+num__Academic Pressure
+num__Job Satisfaction
+num__Work/Study Hours
+num__Work Pressure Missing Relevant
+num__Profession Missing Relevant
+num__primary_pressure
+num__primary_satisfaction
+num__work_study_hours
+num__overwork_flag
+num__stress_load
+num__net_risk
+cat__City_Agra
+cat__City_Ahmedabad
+cat__City_Chennai
+cat__City_Ghaziabad
+cat__City_Hyderabad
+cat__City_Jaipur
+cat__City_Kanpur
+cat__City_Mumbai
+cat__City_Nagpur
+cat__City_Patna
+cat__City_Srinagar
+cat__City_Vasai-Virar
+cat__Working Professional or Student_Student
+cat__Profession_Accountant
+cat__Profession_Architect
+cat__Profession_Chef
+cat__Profession_Chemist
+cat__Profession_Civil Engineer
+cat__Profession_Consultant
+cat__Profession_Content Writer
+cat__Profession_Data Scientist
+cat__Profession_Digital Marketer
+cat__Profession_Doctor
+cat__Profession_Educational Consultant
+cat__Profession_Entrepreneur
+cat__Profession_Financial Analyst
+cat__Profession_Graphic Designer
+cat__Profession_HR Manager
+cat__Profession_Investment Banker
+cat__Profession_Judge
+cat__Profession_Lawyer
+cat__Profession_Manager
+cat__Profession_Mechanical Engineer
+cat__Profession_Pharmacist
+cat__Profession_Pilot
+cat__Profession_Plumber
+cat__Profession_Research Analyst
+cat__Profession_Software Engineer
+cat__Profession_Travel Consultant
+cat__Profession_UX/UI Designer
+cat__Sleep Duration_5-6 hours
+cat__Sleep Duration_More than 8 hours
+cat__Dietary Habits_Healthy
+cat__Dietary Habits_Moderate
+cat__Degree_B.Arch
+cat__Degree_B.Com
+cat__Degree_B.Ed
+cat__Degree_B.Pharm
+cat__Degree_BA
+cat__Degree_BE
+cat__Degree_BHM
+cat__Degree_Class 12
+cat__Degree_LLB
+cat__Degree_LLM
+cat__Degree_M.Ed
+cat__Degree_M.Tech
+cat__Degree_MA
+cat__Degree_MBA
+cat__Degree_MD
+cat__Degree_MSc
+cat__Degree_PhD
+cat__Have you ever had suicidal thoughts ?_No
+cat__age_group_mid_age
+cat__age_group_senior
