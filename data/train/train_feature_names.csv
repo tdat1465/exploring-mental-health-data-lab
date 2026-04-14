@@ -3,14 +3,17 @@ num__Age
 num__Academic Pressure
 num__Job Satisfaction
 num__Work/Study Hours
+num__Financial Stress
 num__Work Pressure Missing Relevant
 num__Profession Missing Relevant
+num__is_student
 num__primary_pressure
 num__primary_satisfaction
 num__work_study_hours
 num__overwork_flag
 num__stress_load
 num__net_risk
+cat__Gender_Male
 cat__City_Agra
 cat__City_Ahmedabad
 cat__City_Chennai
@@ -21,10 +24,7 @@ cat__City_Kanpur
 cat__City_Mumbai
 cat__City_Nagpur
 cat__City_Patna
-cat__City_Srinagar
 cat__City_Vasai-Virar
-cat__Working Professional or Student_Student
-cat__Profession_Accountant
 cat__Profession_Architect
 cat__Profession_Chef
 cat__Profession_Chemist
@@ -45,13 +45,14 @@ cat__Profession_Lawyer
 cat__Profession_Manager
 cat__Profession_Mechanical Engineer
 cat__Profession_Pharmacist
-cat__Profession_Pilot
 cat__Profession_Plumber
 cat__Profession_Research Analyst
 cat__Profession_Software Engineer
 cat__Profession_Travel Consultant
 cat__Profession_UX/UI Designer
+cat__Profession_Unknown
 cat__Sleep Duration_5-6 hours
+cat__Sleep Duration_7-8 hours
 cat__Sleep Duration_More than 8 hours
 cat__Dietary Habits_Healthy
 cat__Dietary Habits_Moderate
@@ -67,7 +68,6 @@ cat__Degree_LLB
 cat__Degree_LLM
 cat__Degree_M.Ed
 cat__Degree_M.Tech
-cat__Degree_MA
 cat__Degree_MBA
 cat__Degree_MD
 cat__Degree_MSc
